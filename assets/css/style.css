@@ -58,6 +58,7 @@ body {
 }
 
 .smaller-box {
+    text-transform: capitalize;
     display: flex;
     align-items: center;
 }
